@@ -1,0 +1,15 @@
+{
+    "name": "rayc/phpmvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "raychung0520",
+            "email": "raychung0520@gmail.com"
+        }
+    ],
+    "require": {}
+}
